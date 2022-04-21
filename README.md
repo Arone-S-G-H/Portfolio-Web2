@@ -1,6 +1,6 @@
 # Portfolio
 
-- An example of personal static website using HTML BOOTSTRAP .
+- An example of personal static website using HTML and BOOTSTRAP .
 
 - I made some changes to the bootstrap file ( style.css ) and also added some custom classes to it .
 
